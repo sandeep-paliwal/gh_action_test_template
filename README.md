@@ -1,6 +1,6 @@
 # 377GrayTermite
 
-Welcome to my Adobe I/O Application!
+Welcome to my Adobe I/O Application! 
 
 ## Setup
 
